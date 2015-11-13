@@ -58,6 +58,7 @@
 		8466ED1F1BF1D45700A8F75F /* GoogleTranslate */ = {
 			isa = PBXGroup;
 			children = (
+				8466ED371BF1DACA00A8F75F /* 3rdParty */,
 				8466ED231BF1D45800A8F75F /* AppDelegate.h */,
 				8466ED241BF1D45800A8F75F /* AppDelegate.m */,
 				8466ED261BF1D45800A8F75F /* ViewController.h */,
@@ -77,6 +78,13 @@
 				8466ED211BF1D45800A8F75F /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8466ED371BF1DACA00A8F75F /* 3rdParty */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = 3rdParty;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,6 +308,7 @@
 				8466ED361BF1D45800A8F75F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
